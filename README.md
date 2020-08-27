@@ -1,2 +1,2 @@
-# greedy-coloring
-greedy coloring algorithm in C.
+# Greedy-coloring
+Greedy coloring algorithm in C.
